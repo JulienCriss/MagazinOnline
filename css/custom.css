@@ -1,0 +1,15 @@
+.tp-leftarrow, .tp-rightarrow
+{
+	display: none
+}
+
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.fa-circle:hover{
+	color: #cc0000;
+}
